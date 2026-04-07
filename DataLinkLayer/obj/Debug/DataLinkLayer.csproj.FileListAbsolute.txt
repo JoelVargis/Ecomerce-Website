@@ -1,0 +1,9 @@
+C:\Users\Joelv\source\repos\DataLinkLayer\bin\Debug\DataLinkLayer.dll
+C:\Users\Joelv\source\repos\DataLinkLayer\bin\Debug\DataLinkLayer.pdb
+C:\Users\Joelv\source\repos\DataLinkLayer\bin\Debug\Model.dll
+C:\Users\Joelv\source\repos\DataLinkLayer\bin\Debug\Model.pdb
+C:\Users\Joelv\source\repos\DataLinkLayer\obj\Debug\DataLinkLayer.csproj.AssemblyReference.cache
+C:\Users\Joelv\source\repos\DataLinkLayer\obj\Debug\DataLinkLayer.csproj.CoreCompileInputs.cache
+C:\Users\Joelv\source\repos\DataLinkLayer\obj\Debug\DataLinkLayer.csproj.CopyComplete
+C:\Users\Joelv\source\repos\DataLinkLayer\obj\Debug\DataLinkLayer.dll
+C:\Users\Joelv\source\repos\DataLinkLayer\obj\Debug\DataLinkLayer.pdb
