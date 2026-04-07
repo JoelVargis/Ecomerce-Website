@@ -1,0 +1,5 @@
+C:\Users\Joelv\source\repos\BankServerSolution\BankServiceDAL\obj\Debug\BankServiceDAL.csproj.CoreCompileInputs.cache
+C:\Users\Joelv\source\repos\BankServerSolution\BankServiceDAL\bin\Debug\BankServiceDAL.dll
+C:\Users\Joelv\source\repos\BankServerSolution\BankServiceDAL\bin\Debug\BankServiceDAL.pdb
+C:\Users\Joelv\source\repos\BankServerSolution\BankServiceDAL\obj\Debug\BankServiceDAL.dll
+C:\Users\Joelv\source\repos\BankServerSolution\BankServiceDAL\obj\Debug\BankServiceDAL.pdb

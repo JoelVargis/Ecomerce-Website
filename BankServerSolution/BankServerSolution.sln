@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36602.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BankServiceWCF", "BankServiceWCF\", "{BDAB7D3E-CC01-4CB9-B94F-156EFE481C7D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{f029d45b-928f-46ca-919b-373fa329e607}|BankServiceDAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51028"
+		Debug.AspNetCompiler.PhysicalPath = "BankServiceWCF\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51028\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51028"
+		Release.AspNetCompiler.PhysicalPath = "BankServiceWCF\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51028\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51028"
+		SlnRelativePath = "BankServiceWCF\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankServiceDAL", "BankServiceDAL\BankServiceDAL.csproj", "{F029D45B-928F-46CA-919B-373FA329E607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAB7D3E-CC01-4CB9-B94F-156EFE481C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAB7D3E-CC01-4CB9-B94F-156EFE481C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAB7D3E-CC01-4CB9-B94F-156EFE481C7D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAB7D3E-CC01-4CB9-B94F-156EFE481C7D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F029D45B-928F-46CA-919B-373FA329E607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F029D45B-928F-46CA-919B-373FA329E607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F029D45B-928F-46CA-919B-373FA329E607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F029D45B-928F-46CA-919B-373FA329E607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB2CAFF5-7C58-4885-A2AC-6D7DCF29739F}
+	EndGlobalSection
+EndGlobal
